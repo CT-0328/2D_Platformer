@@ -331,9 +331,11 @@
 "Assets/Scripts/button.cs"
 "Assets/Scripts/cameraFollow.cs"
 "Assets/Scripts/cannonAim.cs"
+"Assets/Scripts/crusher.cs"
 "Assets/Scripts/EverythingManager.cs"
 "Assets/Scripts/movePlatform.cs"
 "Assets/Scripts/RollingLog.cs"
+"Assets/Scripts/SUPERCRUSHER.cs"
 -langversion:8.0
 
 /deterministic
