@@ -106,6 +106,8 @@
 -define:ENABLE_TILEMAP
 -define:ENABLE_TIMELINE
 -define:ENABLE_LEGACY_INPUT_MANAGER
+-define:STARTER_ASSETS_PACKAGES_CHECKED
+-define:PACKAGE_INPUT_SYSTEM_EXISTS
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
 -r:"/Applications/Unity/Hub/Editor/2021.1.3f1/Unity.app/Contents/Managed/UnityEditor.Graphs.dll"
@@ -302,6 +304,7 @@
 -r:"/Applications/Unity/Hub/Editor/2021.1.3f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/4.7.1-api/System.Xml.dll"
 -r:"/Applications/Unity/Hub/Editor/2021.1.3f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/4.7.1-api/System.Xml.Linq.dll"
 -r:"/Applications/Unity/Hub/Editor/2021.1.3f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll"
+-r:"/Users/kids/Desktop/3D Stuff/2D Platformer/Library/PackageCache/com.unity.cinemachine@2.7.9/Runtime/ThirdParty/clipper_library.dll"
 -r:"/Users/kids/Desktop/3D Stuff/2D Platformer/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
 -r:"/Users/kids/Desktop/3D Stuff/2D Platformer/Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Dependencies/DotNetZip/IonicZip.dll"
 -r:"/Users/kids/Desktop/3D Stuff/2D Platformer/Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Dependencies/YamlDotNet/YamlDotNet.dll"
@@ -309,6 +312,7 @@
 -r:"/Users/kids/Desktop/3D Stuff/2D Platformer/Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Flow/Dependencies/NCalc/Antlr3.Runtime.dll"
 -r:"Assets/DOTween/DOTween.dll"
 -r:"Assets/DOTween/Editor/DOTweenEditor.dll"
+-r:"Library/Bee/artifacts/200b0aE.dag/Unity.InputSystem.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Core.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Core.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.ref.dll"

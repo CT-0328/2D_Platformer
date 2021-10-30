@@ -106,6 +106,7 @@
 -define:ENABLE_TILEMAP
 -define:ENABLE_TIMELINE
 -define:ENABLE_LEGACY_INPUT_MANAGER
+-define:STARTER_ASSETS_PACKAGES_CHECKED
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
 -r:"/Applications/Unity/Hub/Editor/2021.1.3f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.CoreModule.dll"
@@ -300,9 +301,13 @@
 -r:"/Applications/Unity/Hub/Editor/2021.1.3f1/Unity.app/Contents/NetStandard/Extensions/2.0.0/System.Numerics.Vectors.dll"
 -r:"/Applications/Unity/Hub/Editor/2021.1.3f1/Unity.app/Contents/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
 -r:"/Applications/Unity/Hub/Editor/2021.1.3f1/Unity.app/Contents/NetStandard/ref/2.0.0/netstandard.dll"
+-r:"/Users/kids/Desktop/3D Stuff/2D Platformer/Library/PackageCache/com.unity.cinemachine@2.7.9/Runtime/ThirdParty/clipper_library.dll"
 -r:"/Users/kids/Desktop/3D Stuff/2D Platformer/Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Dependencies/MiscUtil/MiscUtil.dll"
 -r:"/Users/kids/Desktop/3D Stuff/2D Platformer/Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Flow/Dependencies/NCalc/Antlr3.Runtime.dll"
 -r:"Assets/DOTween/DOTween.dll"
+-r:"Library/Bee/artifacts/200b0aE.dag/Cinemachine.ref.dll"
+-r:"Library/Bee/artifacts/200b0aE.dag/com.unity.cinemachine.editor.ref.dll"
+-r:"Library/Bee/artifacts/200b0aE.dag/Unity.InputSystem.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.Rider.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.TextMeshPro.ref.dll"
@@ -319,6 +324,13 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/VSSettingsProvider.ref.dll"
+"Assets/3rdPerson+Fly/Scripts/LevelScripts/ControlsTutorial.cs"
+"Assets/3rdPerson+Fly/Scripts/LevelScripts/HintManagement.cs"
+"Assets/3rdPerson+Fly/Scripts/LevelScripts/ThirdPersonOrbitCamBasic.cs"
+"Assets/3rdPerson+Fly/Scripts/PlayerScripts/AimBehaviourBasic.cs"
+"Assets/3rdPerson+Fly/Scripts/PlayerScripts/BasicBehaviour.cs"
+"Assets/3rdPerson+Fly/Scripts/PlayerScripts/FlyBehaviour.cs"
+"Assets/3rdPerson+Fly/Scripts/PlayerScripts/MoveBehaviour.cs"
 "Assets/DOTween/Modules/DOTweenModuleAudio.cs"
 "Assets/DOTween/Modules/DOTweenModuleEPOOutline.cs"
 "Assets/DOTween/Modules/DOTweenModulePhysics.cs"
@@ -331,11 +343,26 @@
 "Assets/Scripts/button.cs"
 "Assets/Scripts/cameraFollow.cs"
 "Assets/Scripts/cannonAim.cs"
+"Assets/Scripts/characterFollow.cs"
 "Assets/Scripts/crusher.cs"
 "Assets/Scripts/EverythingManager.cs"
+"Assets/Scripts/EyeFollow.cs"
+"Assets/Scripts/GoombaColliderSide.cs"
+"Assets/Scripts/GoombaColliderTop.cs"
+"Assets/Scripts/GoombaMove.cs"
+"Assets/Scripts/killPlayer.cs"
 "Assets/Scripts/movePlatform.cs"
 "Assets/Scripts/RollingLog.cs"
 "Assets/Scripts/SUPERCRUSHER.cs"
+"Assets/StarterAssets/InputSystem/StarterAssetsInputs.cs"
+"Assets/StarterAssets/Mobile/Scripts/CanvasInputs/UICanvasControllerInput.cs"
+"Assets/StarterAssets/Mobile/Scripts/Utilities/MobileDisableAutoSwitchControls.cs"
+"Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualButton.cs"
+"Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualJoystick.cs"
+"Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualTouchZone.cs"
+"Assets/StarterAssets/ThirdPersonController/Scripts/BasicRigidBodyPush.cs"
+"Assets/StarterAssets/ThirdPersonController/Scripts/ThirdPersonController.cs"
+"Assets/StarterAssets/TutorialInfo/Scripts/Readme.cs"
 -langversion:8.0
 
 /deterministic
