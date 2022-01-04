@@ -305,8 +305,6 @@
 -r:"/Applications/Unity/Hub/Editor/2021.1.3f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll"
 -r:"/Users/kids/Desktop/3D Stuff/2D Platformer/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.TestRunner.ref.dll"
--analyzer:"Assets/Misc/DOTween/DOTween.dll"
--analyzer:"Assets/Misc/DOTween/Editor/DOTweenEditor.dll"
 "Library/PackageCache/com.unity.test-framework@1.1.24/UnityEditor.TestRunner/Api/CallbacksDelegator.cs"
 "Library/PackageCache/com.unity.test-framework@1.1.24/UnityEditor.TestRunner/Api/CallbacksDelegatorListener.cs"
 "Library/PackageCache/com.unity.test-framework@1.1.24/UnityEditor.TestRunner/Api/CallbacksHolder.cs"

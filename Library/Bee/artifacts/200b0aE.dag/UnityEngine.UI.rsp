@@ -315,8 +315,6 @@
 -r:"/Users/kids/Desktop/3D Stuff/2D Platformer/Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Flow/Dependencies/NCalc/Antlr3.Runtime.dll"
 -r:"Assets/Misc/DOTween/DOTween.dll"
 -r:"Assets/Misc/DOTween/Editor/DOTweenEditor.dll"
--analyzer:"Assets/Misc/DOTween/DOTween.dll"
--analyzer:"Assets/Misc/DOTween/Editor/DOTweenEditor.dll"
 "Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventData/AxisEventData.cs"
 "Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventData/BaseEventData.cs"
 "Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventData/PointerEventData.cs"

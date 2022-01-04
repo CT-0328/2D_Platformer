@@ -312,8 +312,6 @@
 -r:"Assets/Misc/DOTween/Editor/DOTweenEditor.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
--analyzer:"Assets/Misc/DOTween/DOTween.dll"
--analyzer:"Assets/Misc/DOTween/Editor/DOTweenEditor.dll"
 "Library/PackageCache/com.unity.textmeshpro@3.0.4/Scripts/Runtime/AssemblyInfo.cs"
 "Library/PackageCache/com.unity.textmeshpro@3.0.4/Scripts/Runtime/FastAction.cs"
 "Library/PackageCache/com.unity.textmeshpro@3.0.4/Scripts/Runtime/ITextPreProcessor.cs"
