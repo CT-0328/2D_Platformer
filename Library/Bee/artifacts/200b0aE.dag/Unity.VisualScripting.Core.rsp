@@ -314,8 +314,6 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.InputSystem.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
--analyzer:"Assets/Misc/DOTween stuff/DOTween/DOTween.dll"
--analyzer:"Assets/Misc/DOTween stuff/DOTween/Editor/DOTweenEditor.dll"
 "Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Cloning/Cloner.cs"
 "Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Cloning/Cloners/AnimationCurveCloner.cs"
 "Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Cloning/Cloners/ArrayCloner.cs"
