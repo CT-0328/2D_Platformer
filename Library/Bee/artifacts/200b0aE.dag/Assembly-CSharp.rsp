@@ -357,6 +357,7 @@
 "Assets/Scripts/characterFollow.cs"
 "Assets/Scripts/controlDissolve.cs"
 "Assets/Scripts/crusher.cs"
+"Assets/Scripts/EndOfLevelSpawn.cs"
 "Assets/Scripts/EverythingManager.cs"
 "Assets/Scripts/EyeFollow.cs"
 "Assets/Scripts/Fireball.cs"
